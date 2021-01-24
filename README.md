@@ -1,5 +1,6 @@
 # calculator
-This website just do the function of calculator.
+
+This website used to do basic  calculator.
 
 ### live site
 
