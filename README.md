@@ -5,6 +5,6 @@ This website just do the function of calculator.
 
 https://github.com/B-chandru/calculator/
 
-##introduction
+## Introduction
 
  This website enables you to do basic calculator like addition, subtraction, multiplication and division.
